@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+}
+header div {
+  border-color: blue;
+  border-top: 2px solid;
+  background-color: #fdfbf1;
+  width: 100%;
+}
+
+header div p {
+  font-size: 1.5em;
+  margin: 0;
+  width: 900px;
+  text-align: center;
+  margin-inline: auto;
+  padding-block: 2vh;
+}
+
+main {
+  width: 800px;
+  text-align: start;
+  margin-inline: auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+main p {
+  font-size: 1.2em;
+}
